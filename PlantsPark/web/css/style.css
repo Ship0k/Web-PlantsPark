@@ -1,0 +1,45 @@
+body {
+    background-image: url("fon.jpg");
+}
+h2, h4 {
+    color: #f0f0f0;
+    text-shadow: red 2px 2px 6px;
+    font-size: 30pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+}
+h3 {
+    color: #f0f0f0;
+    text-shadow: red 0 0 1px;
+    font-size: 18pt;
+    font-family: Georgia, Times, serif;
+    font-weight: normal;
+}
+th {
+    color: #a52a2a;
+    background: aquamarine;
+    font-size: 18pt;
+    font-family: Georgia, Times, serif;
+    font-weight: normal;
+}
+td {
+    color: black;
+    background: palegreen;
+    font-size: 16pt;
+    font-family: Georgia, Times, serif;
+    font-weight: normal;
+    text-align: justify;
+}
+.ll {
+    color: #f0f0f0;
+    background: #cd6600;
+}
+
+.dl {
+    color: #f0f0f0;
+    background: red;
+}
+.ok {
+    color: #f0f0f0;
+    background: cornflowerblue;
+}
